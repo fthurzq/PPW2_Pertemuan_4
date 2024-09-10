@@ -1,0 +1,1 @@
+<p>&copy; 2024 FT Graph. All rights reserved.</p>
